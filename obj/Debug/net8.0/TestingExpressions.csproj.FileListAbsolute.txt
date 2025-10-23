@@ -1,0 +1,14 @@
+C:\Users\nikitar\OneDrive - Intelligent Debt Management PTY Ltd\Desktop\Guided-project-foreach-if-array-CSharp-main\GuidedProject\TestingExpressions\bin\Debug\net8.0\TestingExpressions.exe
+C:\Users\nikitar\OneDrive - Intelligent Debt Management PTY Ltd\Desktop\Guided-project-foreach-if-array-CSharp-main\GuidedProject\TestingExpressions\bin\Debug\net8.0\TestingExpressions.deps.json
+C:\Users\nikitar\OneDrive - Intelligent Debt Management PTY Ltd\Desktop\Guided-project-foreach-if-array-CSharp-main\GuidedProject\TestingExpressions\bin\Debug\net8.0\TestingExpressions.runtimeconfig.json
+C:\Users\nikitar\OneDrive - Intelligent Debt Management PTY Ltd\Desktop\Guided-project-foreach-if-array-CSharp-main\GuidedProject\TestingExpressions\bin\Debug\net8.0\TestingExpressions.dll
+C:\Users\nikitar\OneDrive - Intelligent Debt Management PTY Ltd\Desktop\Guided-project-foreach-if-array-CSharp-main\GuidedProject\TestingExpressions\bin\Debug\net8.0\TestingExpressions.pdb
+C:\Users\nikitar\OneDrive - Intelligent Debt Management PTY Ltd\Desktop\Guided-project-foreach-if-array-CSharp-main\GuidedProject\TestingExpressions\obj\Debug\net8.0\TestingExpressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikitar\OneDrive - Intelligent Debt Management PTY Ltd\Desktop\Guided-project-foreach-if-array-CSharp-main\GuidedProject\TestingExpressions\obj\Debug\net8.0\TestingExpressions.AssemblyInfoInputs.cache
+C:\Users\nikitar\OneDrive - Intelligent Debt Management PTY Ltd\Desktop\Guided-project-foreach-if-array-CSharp-main\GuidedProject\TestingExpressions\obj\Debug\net8.0\TestingExpressions.AssemblyInfo.cs
+C:\Users\nikitar\OneDrive - Intelligent Debt Management PTY Ltd\Desktop\Guided-project-foreach-if-array-CSharp-main\GuidedProject\TestingExpressions\obj\Debug\net8.0\TestingExpressions.csproj.CoreCompileInputs.cache
+C:\Users\nikitar\OneDrive - Intelligent Debt Management PTY Ltd\Desktop\Guided-project-foreach-if-array-CSharp-main\GuidedProject\TestingExpressions\obj\Debug\net8.0\TestingExpressions.dll
+C:\Users\nikitar\OneDrive - Intelligent Debt Management PTY Ltd\Desktop\Guided-project-foreach-if-array-CSharp-main\GuidedProject\TestingExpressions\obj\Debug\net8.0\refint\TestingExpressions.dll
+C:\Users\nikitar\OneDrive - Intelligent Debt Management PTY Ltd\Desktop\Guided-project-foreach-if-array-CSharp-main\GuidedProject\TestingExpressions\obj\Debug\net8.0\TestingExpressions.pdb
+C:\Users\nikitar\OneDrive - Intelligent Debt Management PTY Ltd\Desktop\Guided-project-foreach-if-array-CSharp-main\GuidedProject\TestingExpressions\obj\Debug\net8.0\TestingExpressions.genruntimeconfig.cache
+C:\Users\nikitar\OneDrive - Intelligent Debt Management PTY Ltd\Desktop\Guided-project-foreach-if-array-CSharp-main\GuidedProject\TestingExpressions\obj\Debug\net8.0\ref\TestingExpressions.dll
