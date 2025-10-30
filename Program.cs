@@ -106,21 +106,22 @@ using System.Net.Http.Headers;
 // Console.WriteLine((coin.Next(0, 2) == 0) ? "heads" : "tails");
 
 //////////////////////////////////MY CODE://///////////////////////////////////////////////
-string permission = "Admin";
-int level = 50;
 
-if (permission.Contains("Admin"))
-{
-    Console.WriteLine((level >= 55) ? "Welcome, Super Admin user." : "Welcome, Admin user.");
-}
-else if (permission.Contains("Manager"))
-{
-    Console.WriteLine((level >= 20) ? "Contact an Admin for access." : "You do not have sufficient privileges.");
-}
-else
-{
-    Console.WriteLine("You do not have sufficient privileges.");
-}
+// string permission = "Admin";
+// int level = 50;
+
+// if (permission.Contains("Admin"))
+// {
+//     Console.WriteLine((level >= 55) ? "Welcome, Super Admin user." : "Welcome, Admin user.");
+// }
+// else if (permission.Contains("Manager"))
+// {
+//     Console.WriteLine((level >= 20) ? "Contact an Admin for access." : "You do not have sufficient privileges.");
+// }
+// else
+// {
+//     Console.WriteLine("You do not have sufficient privileges.");
+// }
 
 //////////////////////////////////THE BROKEN DOWN VERSION///////////////////////////////////
 //     if (permission.Contains("Admin"))
@@ -148,5 +149,122 @@ else
 //     Console.WriteLine("You do not have sufficient privileges.");
 // }
 
+// FOR LOOP::
+// int jo = 2;
+// for (int i = 1; i < 500000; i++) {
+//     jo += i;
+//     Console.WriteLine(i);
+// }
+
+
+// path when flag = true
+// int value;
+// value = 10;
+// Console.WriteLine($"Inside the code block: {value}");
+// Console.WriteLine($"Outside the code block: {value}");
+
+// Code sample 1
+
+// bool flag = true;
+// int value;
+
+// the value var has red underline because outside of the code block, it has no value
+
+// if (flag)
+// {
+//     value = 10;
+//     Console.WriteLine($"Inside the code block: {value}");
+// }
+
+// Console.WriteLine($"Outside the code block: {value}");
+
+
+//OPTION.1  - removing curly braces
+
+// bool flag = true;
+// if (flag)
+//     Console.WriteLine(flag);
+
+//OPTION.2 
+
+// bool flag = true;
+// if (flag) Console.WriteLine(flag);
+
+
+
+
+
+// string name = "bob";
+// if (name == "bob") Console.WriteLine("Found Bob");
+// else if (name == "steve") Console.WriteLine("Found Steve");
+// else Console.WriteLine("Found Chuck");
+
+
+//INSTEAD OF:
+
+// string name = "steve";
+
+// if (name == "bob")
+//     Console.WriteLine("Found Bob");
+// else if (name == "steve") 
+//     Console.WriteLine("Found Steve");
+// else
+//     Console.WriteLine("Found Chuck");
+
+
+
+
+
+//FROM THIS:  
+
+// int[] numbers = { 4, 8, 15, 16, 23, 42 };
+
+// foreach (int number in numbers)
+// {
+//     int total;
+
+//     total += number;
+
+//     if (number == 42)
+//     {
+//        bool found = true;
+
+//     }
+
+// }
+
+// if (found) 
+// {
+//     Console.WriteLine("Set contains 42");
+
+// }
+
+// Console.WriteLine($"Total: {total}");
+
+
+
+//TO THIS: 
+
+// int[] numbers = { 4, 8, 15, 16, 23, 42 };
+// int total = 0;
+
+// foreach (int number in numbers)
+// {
+//     total += number;
+//     if (number == 42)
+//         Console.WriteLine("Set contains 42");
+//         Console.WriteLine($"Total: {total}");
+// }
+
+//QUIZ::
+// int value = 1;
+
+// if (0 < value)
+// {
+//     int value2 = 8;
+//     value += value2;
+// }
+
+// Console.WriteLine(value);
 
 

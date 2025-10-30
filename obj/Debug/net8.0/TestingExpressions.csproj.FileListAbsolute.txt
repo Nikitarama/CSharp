@@ -12,3 +12,4 @@ C:\Users\nikitar\OneDrive - Intelligent Debt Management PTY Ltd\Desktop\Guided-p
 C:\Users\nikitar\OneDrive - Intelligent Debt Management PTY Ltd\Desktop\Guided-project-foreach-if-array-CSharp-main\GuidedProject\TestingExpressions\obj\Debug\net8.0\TestingExpressions.pdb
 C:\Users\nikitar\OneDrive - Intelligent Debt Management PTY Ltd\Desktop\Guided-project-foreach-if-array-CSharp-main\GuidedProject\TestingExpressions\obj\Debug\net8.0\TestingExpressions.genruntimeconfig.cache
 C:\Users\nikitar\OneDrive - Intelligent Debt Management PTY Ltd\Desktop\Guided-project-foreach-if-array-CSharp-main\GuidedProject\TestingExpressions\obj\Debug\net8.0\ref\TestingExpressions.dll
+C:\Users\nikitar\OneDrive - Intelligent Debt Management PTY Ltd\Desktop\Guided-project-foreach-if-array-CSharp-main\GuidedProject\TestingExpressions\obj\Debug\net8.0\TestingExpressions.sourcelink.json
