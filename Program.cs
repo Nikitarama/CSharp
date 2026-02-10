@@ -697,6 +697,8 @@ using System.Xml;
 // while (!entry);
 ////////////////////////////////////////MY CODE/////////////////////////////////////////////////////
 
+// -  the ? character defines a nullable type variable
+
 // string[] roles = ["Administrator", "Manager", "User"];
 // bool validated = false;
 // string? role;
@@ -774,5 +776,52 @@ for (int i = 0; i < stringLength; i++)
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
+Console.WriteLine("The current time is " + DateTime.Now);
+
+ string? addInfo;
+
+            do
+            {
+                Console.WriteLine("Do you want to add information for another pet? (y/n)");
+                readResult = Console.ReadLine();
+                addInfo = readResult;
+                bool validEntry = false;
+
+                if (addInfo != null)
+                {
+                    addInfo = addInfo.ToLower();
+
+                    if (addInfo == "y")
+                    {
+                        for (int i = 0; i < maxPets; i++)
+                        {
+                            for (int j = 0; j < 6; j++)
+                            {
+                                Console.WriteLine(ourAnimals[i, j]);
+                            }
+                            Console.WriteLine();
+                        }
+                        Console.WriteLine("Which pet would you like to add information for? Provide the ID:");
+                        addInfo = Console.ReadLine();
+
+                        if (addInfo != null)
+                        {
+                            animalID = animalID.ToLower();
+
+                        if (animalID == animalID)
+                            {
+                                {
+                                    animalNickname = addInfo;
+                                }
+                            }
+                        
+                        }
 
 
+                    }
+                }
+            } while (addInfo == "");
+
+
+
+            readResult = Console.ReadLine();
